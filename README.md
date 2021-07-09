@@ -1,3 +1,16 @@
+<div align="center">
+  
+  # Code Editor Playground
+  
+<!--   [DEMO]() -->
+  
+  In-browser code editor with HTML/CSS/JS tabs & Results(output)/Console tabs on the other side. Uses [@agney/playground](https://github.com/agneym/playground) library.
+  
+  
+  
+
+<details><summary>Bootstrapped with CRA</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
+</details>
+  
+  
+</div>

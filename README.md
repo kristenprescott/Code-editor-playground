@@ -8,6 +8,14 @@
   
   
   
+  ## Dependencies
+  
+  <div align="left">
+  
+- [@agney/playground](https://github.com/agneym/playground)
+- [@reach/tabs](https://reach.tech/tabs/)
+  
+  
 
 <details><summary>Bootstrapped with CRA</summary>
 
@@ -83,6 +91,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
   
 </details>
+    
+  </div>
   
   
 </div>
